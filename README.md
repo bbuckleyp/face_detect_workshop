@@ -1,1 +1,1 @@
-# face_detect_workshop
+# face_detect_project
